@@ -1,7 +1,7 @@
 {
     "name": "OniGameStudio",
     "preductname": "OniGameStudio",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Ultra Extremo",
     "main": "src/app.js",
     "author": "LateVICTOR",
